@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+    <parent>
+        <groupId>com.data.springcloud</groupId>
+        <artifactId>spring-cloud</artifactId>
+        <version>1.0</version>
+    </parent>
+    <artifactId>data-generator</artifactId>
+    <version>1.0</version>
+    <packaging>pom</packaging>
+    <name>data-generator</name>
+    <description>This project is a data generator witch produce any data type for a real life similation</description>
+
+
+
+<modules>
+    <module>config-service</module>
+</modules>
+
+
+        </project>
