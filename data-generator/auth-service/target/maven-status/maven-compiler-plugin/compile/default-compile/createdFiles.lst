@@ -1,0 +1,6 @@
+com/datagenerator/authservice/service/UserService.class
+com/datagenerator/authservice/controller/UserController.class
+com/datagenerator/authservice/repository/UserRepository.class
+com/datagenerator/authservice/AuthServiceApplication.class
+com/datagenerator/authservice/model/User.class
+com/datagenerator/authservice/configuration/WebSecurityConfig.class

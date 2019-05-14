@@ -1,0 +1,6 @@
+/home/hisler/Workspace/tutorials/github/spring-cloud/data-generator/auth-service/src/main/java/com/datagenerator/authservice/model/User.java
+/home/hisler/Workspace/tutorials/github/spring-cloud/data-generator/auth-service/src/main/java/com/datagenerator/authservice/repository/UserRepository.java
+/home/hisler/Workspace/tutorials/github/spring-cloud/data-generator/auth-service/src/main/java/com/datagenerator/authservice/AuthServiceApplication.java
+/home/hisler/Workspace/tutorials/github/spring-cloud/data-generator/auth-service/src/main/java/com/datagenerator/authservice/service/UserService.java
+/home/hisler/Workspace/tutorials/github/spring-cloud/data-generator/auth-service/src/main/java/com/datagenerator/authservice/controller/UserController.java
+/home/hisler/Workspace/tutorials/github/spring-cloud/data-generator/auth-service/src/main/java/com/datagenerator/authservice/configuration/WebSecurityConfig.java
